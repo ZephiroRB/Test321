@@ -1,0 +1,5 @@
+D:\Downloads\clean-multitenant-main (1)\clean-multitenant-main\CleanMultitenant\CleanMultitenant.Domain\obj\Debug\net6.0\CleanMultitenant.Domain.csproj.AssemblyReference.cache
+D:\Downloads\clean-multitenant-main (1)\clean-multitenant-main\CleanMultitenant\CleanMultitenant.Domain\obj\Debug\net6.0\CleanMultitenant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\clean-multitenant-main (1)\clean-multitenant-main\CleanMultitenant\CleanMultitenant.Domain\obj\Debug\net6.0\CleanMultitenant.Domain.AssemblyInfoInputs.cache
+D:\Downloads\clean-multitenant-main (1)\clean-multitenant-main\CleanMultitenant\CleanMultitenant.Domain\obj\Debug\net6.0\CleanMultitenant.Domain.AssemblyInfo.cs
+D:\Downloads\clean-multitenant-main (1)\clean-multitenant-main\CleanMultitenant\CleanMultitenant.Domain\obj\Debug\net6.0\CleanMultitenant.Domain.csproj.CoreCompileInputs.cache
